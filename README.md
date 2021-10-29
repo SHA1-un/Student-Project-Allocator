@@ -47,8 +47,10 @@ mvn exec:java -Dexec.args="project_list.txt student_list.txt pdf"
 - NOTE: By adding the `pdf` tag the output will be written to a PDF file.
 
 ### Google Drive file import
-
-<<< This Will not work any more since the credentials.json file has been removed due to security reasons, please generate your own credentials.json file from -- `Select "no" when prompted to import from Google Drive` >>>
+```
+This will no longer work since the credentials.json file has been removed due to security reasons, 
+please generate your own credentials.json file from Google -- Select "no" when prompted to import from Google Drive
+```
 
 After running the program you will be asked if you would want to import files from
 your Google Drive account or use the local files on your computer.
