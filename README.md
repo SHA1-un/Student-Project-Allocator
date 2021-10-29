@@ -1,4 +1,4 @@
-# Tutorial 5 (Student-Project Allocator)
+# Student-Project Allocator
 
 The student project allocation program uses an algorithm I designed myself, but with the inspiration of the algorithm of [David J.Abrahama, Robert W.Irving and David F.Manlov](https://www.sciencedirect.com/science/article/pii/S1570866706000207#sec001). The pseudocode that was used as the base is the following: [SPA algorithm](https://ars.els-cdn.com/content/image/1-s2.0-S1570866706000207-gr005.gif)
 
